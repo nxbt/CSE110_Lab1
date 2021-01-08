@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to my Github Page
 
-You can use the [editor on GitHub](https://github.com/nxbt/CSE110_Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jasmine Thompson, and I am an undergraduate majoring in computer science at University of California San Diego. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+I have been using Java since I was 12, and have been programming in C/C++ and JavaScript for almost as long. Over this time, I became familiar with using git as VCS and with IDEs such as Intelij and VS Code. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the last few years I have expanded on the languages and technologies I am familiar with to include Python, ReactJS and Linux. I am alway egear to learn about new technologies and write more performant, readable, and scalable code to meet the requirements of the project.
 
-```markdown
-Syntax highlighted code block
+### Personal Life
 
-# Header 1
-## Header 2
-### Header 3
+I am currently living in the *beautiful* costal town of **[Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA/@37.4753073,-122.4309357,13.25z/data=!4m5!3m4!1s0x808f0ba50a19cb0b:0x5efd9cc835e79b54!8m2!3d37.4635519!4d-122.4285862)**, just outside San Francisco. Although some might say the Pacific fog is depressing, I find it to be a peaceful, calming presence that relaxes my body and focuses my mind. One thing that nobody would call any of these things is my dog, Maya.
 
-- Bulleted
-- List
+![Image](IMG_1559.jpg)
 
-1. Numbered
-2. List
+### Big List of Skills
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nxbt/CSE110_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Java
+* C/C++
+* Python
+* ReactJS
+* NodeJS
+* HTML/CSS
+* VS Code
+* Intelij/PyCharm
+* Git/Github/Bitbucket
+* ARM64 assembly
+* Linux
+* BASH Shell scripting
+* Learning new things!
