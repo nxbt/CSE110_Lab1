@@ -6,7 +6,7 @@ My name is Jasmine Thompson, and I am an undergraduate majoring in computer scie
 
 I have been using Java since I was 12, and have been programming in C/C++ and JavaScript for almost as long. Over this time, I became familiar with using git as VCS and with IDEs such as Intelij and VS Code. 
 
-In the last few years I have expanded on the languages and technologies I am familiar with to include Python, ReactJS and Linux. I am alway egear to learn about new technologies and write more performant, readable, and scalable code to meet the requirements of the project.
+In the last few years I have expanded on the languages and technologies I am familiar with to include Python, ReactJS and Linux. I am always eager to learn about new technologies and write more performant, readable, and scalable code to meet the requirements of the project.
 
 ### Personal Life
 
